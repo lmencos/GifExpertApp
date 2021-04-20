@@ -3,13 +3,13 @@
 }
 
 body {
-  padding: 12px;
+  padding: 5px;
 }
 
 input {
   color: blue;
   font-size: .9rem;
-  width: 39%;
+  width: 50%;
 }
 
 .card-grid {
@@ -28,7 +28,7 @@ input {
 }
 
 .card p {
-  padding: 12px;
+  padding: 5px;
   text-align: center;
 }
 

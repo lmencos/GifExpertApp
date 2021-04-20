@@ -3,13 +3,13 @@
 }
 
 body {
-  padding: 12px;
+  padding: 1.2%;
 }
 
 input {
   color: blue;
   font-size: .9rem;
-  width: 39%;
+  width: 50%;
 }
 
 .card-grid {
@@ -22,20 +22,16 @@ input {
   align-content: center;
   border: 1px solid gray;
   border-radius: 5.4px;
-  margin-bottom: 10px;
-  margin-right: 10px;
   overflow: hidden;
+  margin-bottom: 18%;
+  margin-right: 18%;
 }
 
 .card p {
-  padding: 12px;
+  padding: 3px;
   text-align: center;
 }
 
 .card img {
   max-height: 180px;
-}
-
-.loadingText {
-  color: rgb(78, 90, 255);
 }

@@ -1,0 +1,22 @@
+* {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+  padding: 1.2%;
+}
+
+input {
+  color: blue;
+  font-size: .9rem;
+  width: 50%;
+}
+
+.card {
+  align-content: center;
+  border: 1px solid gray;
+  border-radius: 5.4px;
+  overflow: hidden;
+  margin-bottom: 1%;
+  margin-right: 1%;
+}

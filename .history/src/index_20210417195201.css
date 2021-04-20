@@ -1,0 +1,14 @@
+* {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+  padding: 1%;
+}
+
+input {
+  color: blue;
+  font-size: .9rem;
+  width: 50%;
+}
+
